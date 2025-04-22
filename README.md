@@ -17,9 +17,9 @@ The dataset was inspired by real-world customer behavior and is designed to enab
 Whether its data science, building dashboards in Excel or Power BI, or testing machine learning models, this dataset is designed to feel real—and give you meaningful insights.
 
 ## 🔍 Data Sources
-MTN Nigeria eShop (https://shop.mtn.ng/):
-All device types, data plan names, and pricing were taken directly from the official MTN eShop in Q1 2025.
-All customer records and usage patterns were synthetically generated for educational and analytical purposes with the assistance of ChatGPT (OpenAI).
+- MTN Nigeria eShop (https://shop.mtn.ng/):
+- All device types, data plan names, and pricing were taken directly from the official MTN eShop in Q1 2025.
+- All customer records and usage patterns were synthetically generated for educational and analytical purposes with the assistance of ChatGPT (OpenAI).
 
 ## 🧾 Dataset Structure
 This dataset contains 974 rows of customer entries and the following columns:
@@ -50,7 +50,7 @@ This dataset contains 974 rows of customer entries and the following columns:
 - Develop telecom customer personas
 - Explore synthetic data that feels real but respects privacy
 
-##💡 Credit & Collaboration
+## 💡 Credit & Collaboration
 - Data Creator: Oluwademilade Adeniyi
 - Assisted by ChatGPT by OpenAI
 - Based on: Official MTN Nigeria product and pricing data from the MTN eShop.
