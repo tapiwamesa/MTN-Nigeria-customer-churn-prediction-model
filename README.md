@@ -43,14 +43,14 @@ This dataset contains 974 rows of customer entries and the following columns:
 - **Reasons for Churn**: If churned, this field shows the reason (e.g., Poor Network, Relocation, High Call Tariffs, etc.). Empty for active customers.
 
 ## ✅ Why Use This Dataset
-Practice data wrangling, grouping, and pivoting
-Build Excel, Tableau, or Power BI dashboards
-Train classification models (e.g., churn prediction)
-Perform market segmentation
-Develop telecom customer personas
-Explore synthetic data that feels real but respects privacy
+- Practice data wrangling, grouping, and pivoting
+- Build Excel, Tableau, or Power BI dashboards
+- Train classification models (e.g., churn prediction)
+- Perform market segmentation
+- Develop telecom customer personas
+- Explore synthetic data that feels real but respects privacy
 
 ##💡 Credit & Collaboration
-Data Creator: Oluwademilade Adeniyi (Me)
-Assisted by ChatGPT by OpenAI
-Based on: Official MTN Nigeria product and pricing data from the MTN eShop.
+- Data Creator: Oluwademilade Adeniyi
+- Assisted by ChatGPT by OpenAI
+- Based on: Official MTN Nigeria product and pricing data from the MTN eShop.
